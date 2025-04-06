@@ -18,7 +18,7 @@
         }
         else
         {
-            echo $return = "Something went worng";
+            echo $return = "Something went wrong";
         }
     }
 
@@ -89,7 +89,7 @@
         }
         else
         {
-            echo $return = "Something went worng";
+            echo $return = "Something went wrong";
         }
     }
 
@@ -106,7 +106,7 @@
         }
         else
         {
-            echo $return = "Something went worng";
+            echo $return = "Something went wrong";
         }
     }
 
